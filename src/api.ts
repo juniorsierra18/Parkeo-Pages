@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { User, Client } from './types';
 
-const API_URL = 'https://api-parkeo-railway-production.up.railway.app/';
+const API_URL = 'https://api-parkeo-railway-production.up.railway.app';
 
 export const api = {
   // User endpoints
